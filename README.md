@@ -1,1 +1,1 @@
-# OCR
+Welcome to my GitHub repository for OCR and NLP projects! This collection features an OCR application that uses Tesseract to convert images to text, a comprehensive NLP toolkit for text analysis using NLTK and SpaCy, and an integrated solution that combines both technologies for document digitization. Explore the projects to find setup instructions and usage examples, and feel free to contribute or reach out with any questions!
